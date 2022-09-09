@@ -5,11 +5,11 @@
 <p>I am a self-taught front-end developer, I'm a creative Programmer, I also like to create Fullstack-Apps.</p>
 
 <ul>
-  <li>👋 Hi, I’m @DanGoer</li>
+  <li>👋 Hi, I’m @DanGoer.</li>
   <li>❤️ I love creating websites and programming.</li>
-  <li>🌱 I’m currently learning </li>
+  <li>🌱 I’m currently learning SASS.</li>
   <li>💼 I'm a self-taught Front end developer.</li>
-  <li>🧐 Portfolio Website, </li>
+  <li>🧐 My Portfolio: <a href="https://www.dangoer.de">www.dangoer.de</a></li>
 </ul>
 
 <br>
@@ -19,9 +19,11 @@
 <!--<a href="https://danielgoergens.github.io/"><img alt="Portfolio" src="https://img.shields.io/website?style=for-the-badge&up_message=portfolio&url=https%3A%2F%2Fkkvanonymous.github.io%2F"></a>-->
 </p>
 
-## Languages and Tools I worked with:
+## Technical Skills
 
-### 👉 Programming languages
+I am a frontend dev who is used to working with JavaScript and my framework of choice is React. Here is a list of the technologies I worked with:
+
+### 👉 languages
 
 <p align="left"> 
    &emsp;
@@ -149,21 +151,19 @@
   </a>   
 </p>
 
-#### Trophies
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=DanGoer&row=2&column=6&theme=onedark&column=8&no-frame=false&no-bg=false" alt="DanGoer"></a></p>
-
 #### Stats
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=DanGoer&show_icons=true&include_all_commits=true&theme=onedark" alt="Daniel's github stats" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=DanGoer&layout=compact&theme=onedark" />
-</a>
-<br />
-<br />
+<p align="center">
+  <a align="center" href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=DanGoer&show_icons=true&include_all_commits=true&theme=onedark" alt="Daniel's github stats" />
+  </a>
+</p>
+<p align="center">
+  <a align="center" href="https://github.com/anuraghazra/github-readme-stats">
+    <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=DanGoer&layout=compact&theme=onedark" />
+  </a>
+</p>
 <p align="center">
   <img align="center" height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=DanGoer&theme=onedark" alt="DanGoer" />
 </p>
@@ -172,11 +172,22 @@
 
 [![Daniel's github activity graph](https://activity-graph.herokuapp.com/graph?username=DanGoer&theme=react-dark)](https://github.com/DanGoer/github-readme-activity-graph)
 
-<!---
-DanGoer/DanGoer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
 ### Project section
 
-<!-- Links to live sites and short description --->
+<p>Here are some of my notable projects:</p>
+<h3>Fullstack Photo Artist App</h3>
+<a href="https://www.artist.dangoer.de">Live Link</a></br>
+<a href="https://github.com/DanGoer/mern-photo-artist-app">Github Repo</a>
+</br>
+<h3>Fullstack Recipe App</h3>
+<a href="https://www.reciper.dangoer.de/">Live Link</a></br>
+<a href="https://github.com/DanGoer/recipe-app">Github Repo</a>
+</br>
+<h3>Personal Portfolio</h3>
+<a href="https://www.dangoer.de">Live Link</a></br>
+<a href="https://github.com/DanGoer/portfolio-v1">Github Repo</a>
+</br>
+<h3>Weather App</h3>
+<a href="https://weather.dangoer.de/">Live Link</a></br>
+<a href="https://github.com/DanGoer/weather-app">Github Repo</a>
+</br>
